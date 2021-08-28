@@ -35,7 +35,7 @@ h2{
 	color: #717272;
 	background: #f9f9f9cc;
 	border: 1px solid #ddd;
-	font-size: 20px;
+	font-size: 18px;
 	border-radius: 3px;
 }
 .colx-12 form .form-group {
@@ -44,7 +44,7 @@ h2{
 .colx-12 form button, .colx-12 form a {
 	margin-top: 28px;
 	width: 100%;
-	padding: 5px;
+	padding: 10px;
 	border: none;
 	border-radius: 5px;
 	background: #1877f2;
